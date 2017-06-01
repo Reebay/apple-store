@@ -1,3 +1,3 @@
 # Для портфолио. Интернет магазин на OpenCart.
 
-![](http://imgur.com/zhXgRX1)
+![](http://i.imgur.com/zhXgRX1.gifv) 
